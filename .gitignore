@@ -1,0 +1,4 @@
+/build/
+/file_log.txt
+/backup_log.txt
+compile_commands.json
